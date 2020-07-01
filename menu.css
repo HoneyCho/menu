@@ -1,8 +1,18 @@
-.menu{
-    background-color:#f9f9f9;
-    margin:16px 0 16px 0;
-    border: 1px #e4e0e0;
-    padding:6px ;
-    width: 250px;
-  height: 250px;
+.menu {
+  background-color: #f9f9f9;
+  margin: 16px 0 16px 0;
+  border: 3px solid #f9f9f9;
+  padding: 6px;
+  cursor: pointer;
+}
+#food-template {
+  background-color: red;
+  display: none;
+}
+.food-image {
+  background-color: grey;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  height: 150px;
 }

@@ -1,9 +1,9 @@
-var food=[
+var foods=[
 	{
 	"name":"Shan Noodle",
 	"price":1200,
 	"category":"shan",
-	"img":"food.jpg"
+	"img":"mohinga.jpg"
 	},
 	{
 	"name":"Monhinga",
@@ -15,7 +15,7 @@ var food=[
 	"name":"Nan Pyar",
 	"price":1000,
 	"category":"food",
-	"img":"food.jpg"
+	"img":"shan.jpg"
 	},
 	{
 	"name":"Espresso",
